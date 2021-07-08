@@ -1,0 +1,6 @@
+C:\Users\randy\source\repos\Pruebas\structuras\obj\Debug\structuras.csprojAssemblyReference.cache
+C:\Users\randy\source\repos\Pruebas\structuras\obj\Debug\structuras.csproj.CoreCompileInputs.cache
+C:\Users\randy\source\repos\Pruebas\structuras\bin\Debug\structuras.dll
+C:\Users\randy\source\repos\Pruebas\structuras\bin\Debug\structuras.pdb
+C:\Users\randy\source\repos\Pruebas\structuras\obj\Debug\structuras.dll
+C:\Users\randy\source\repos\Pruebas\structuras\obj\Debug\structuras.pdb

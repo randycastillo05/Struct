@@ -1,0 +1,10 @@
+C:\Users\randy\source\repos\Pruebas\Pruebas\bin\Debug\Pruebas.exe.config
+C:\Users\randy\source\repos\Pruebas\Pruebas\bin\Debug\Pruebas.exe
+C:\Users\randy\source\repos\Pruebas\Pruebas\bin\Debug\Pruebas.pdb
+C:\Users\randy\source\repos\Pruebas\Pruebas\bin\Debug\structuras.dll
+C:\Users\randy\source\repos\Pruebas\Pruebas\bin\Debug\structuras.pdb
+C:\Users\randy\source\repos\Pruebas\Pruebas\obj\Debug\visualizacionConsola.csprojAssemblyReference.cache
+C:\Users\randy\source\repos\Pruebas\Pruebas\obj\Debug\visualizacionConsola.csproj.CoreCompileInputs.cache
+C:\Users\randy\source\repos\Pruebas\Pruebas\obj\Debug\visualizacionConsola.csproj.CopyComplete
+C:\Users\randy\source\repos\Pruebas\Pruebas\obj\Debug\Pruebas.exe
+C:\Users\randy\source\repos\Pruebas\Pruebas\obj\Debug\Pruebas.pdb
